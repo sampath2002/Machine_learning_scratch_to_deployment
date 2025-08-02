@@ -7,7 +7,7 @@ Supervised learning models are trained on labeled data (input-output pairs):
 
 1. Regression Models
 
-Linear Regression
+Linear Regression 
 Ridge Regression
 Lasso Regression
 Elastic Net Regression
@@ -69,3 +69,4 @@ One-Class SVM
 Isolation Forest
 Local Outlier Factor (LOF)
 Autoencoders (Unsupervised)
+
