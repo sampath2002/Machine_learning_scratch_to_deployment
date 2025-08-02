@@ -2,7 +2,7 @@
 Models to develop without the inbuilt sklearn and tf models directly, to find the math and explanation behind each calculation.
 
 
-Supervised Learning Models
+# Supervised Learning Models
 Supervised learning models are trained on labeled data (input-output pairs):
 
 1. Regression Models
