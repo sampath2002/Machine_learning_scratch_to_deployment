@@ -31,7 +31,7 @@ Quadratic Discriminant Analysis (QDA)
 Linear Discriminant Analysis (LDA)
 Perceptron
 
-#Unsupervised Learning Models
+# Unsupervised Learning Models
 Unsupervised learning models are trained on unlabeled data (no explicit outputs):
 
 1. Clustering Models
