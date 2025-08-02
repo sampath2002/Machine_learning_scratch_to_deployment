@@ -17,6 +17,8 @@ Decision Tree Regression
 Random Forest Regression
 Gradient Boosting Regression (e.g., XGBoost, LightGBM)
 Bayesian Regression
+
+
 2. Classification Models
 
 Logistic Regression
@@ -44,6 +46,8 @@ Gaussian Mixture Models (GMM)
 Birch Clustering
 Spectral Clustering
 Affinity Propagation
+
+
 2. Dimensionality Reduction
 
 Principal Component Analysis (PCA)
