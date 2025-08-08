@@ -2,8 +2,18 @@
 Models to develop without the inbuilt sklearn and tf models directly, to find the math and explanation behind each calculation.
 
 
+different between the machines and humans are mostly like machines gives you the output based on the relation and math behind the problem.
+
+human see the problem  directly as the question / issue, when it comes to the machine learning algorithms whatever iossue is need to based out in math function and relation.
+
 # Supervised Learning Models
 Supervised learning models are trained on labeled data (input-output pairs):
+
+# y = mx + c
+m = wieights of the following data 
+c = bias 
+the output is dependent  on these factors so called weights and bias.
+
 
 1. Regression Models
 
@@ -21,7 +31,15 @@ Bayesian Regression
 
 2. Classification Models
 
-Logistic Regression
+Logistic Regression:
+
+it is based out on the regression model equations (y = mx + c ) which is derived in log equation (sigmoid function) 
+linear regression function: 
+
+
+sigmoid function 
+# f(x) = e^x /1+ e^x
+
 K-Nearest Neighbors (KNN) Classifier
 Support Vector Machine (SVM) Classifier
 Decision Tree Classifier
